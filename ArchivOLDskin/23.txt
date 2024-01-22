@@ -1,0 +1,55 @@
+1) What does VC dimensions measure, why do we need them? What is the importance of finding the VC dimensions?
+
+
+
+
+
+
+
+
+2) How is VC dimension related to the training set and to the network?
+
+
+
+
+
+
+
+
+3) What do we understand by method of steepest descent?
+
+
+
+
+
+
+
+
+4) Why the dimension of the hidden space in a RBF network is frequently made high?
+
+
+
+
+
+
+
+
+5) How many (minimum) hidden nodes we need to learn 2-inputs XOR and why?a) 1 hidden node b) 2 hidden nodes c) 3 hidden nodes d) the more, the better
+
+
+
+
+
+
+
+
+6) What are the two subproblems of the Credit-Assignment-Problem called? 
+
+
+
+
+
+
+
+
+7) In ESNs: what is an input history echo?

@@ -1,0 +1,55 @@
+1) How is the VC dimension varied when deciding on a network?
+
+
+
+
+
+
+
+
+2) How do we decide the optimal number of hidden neurons in a network?
+
+
+
+
+
+
+
+
+3) How can we solve the bias/variance dilemma?
+
+
+
+
+
+
+
+
+4) Remember the assignment for today, the task about multi layered perception with sigmoid activation function on XOR data. With weights initiated with zeros the neural network learned nothing. Why?
+
+
+
+
+
+
+
+
+5) Are there any examples of using simulated annealing for moving backpropagation's error function from local minima?
+
+
+
+
+
+
+
+
+6) What are the benefits of a a artificial neural network?
+
+
+
+
+
+
+
+
+7) Enumerate some mathematical methods to solve an unconstrained non-linear optimization problem.

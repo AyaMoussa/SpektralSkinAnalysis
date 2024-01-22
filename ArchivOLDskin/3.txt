@@ -1,0 +1,55 @@
+1) What does the feasibility of the supervised learning depend on?
+
+
+
+
+
+
+
+
+2) If multi-class classification is needed to be done using neural network then the sigmoid function would have to  be dis-continuous or what would be the shape of sigmoid function? 
+
+
+
+
+
+
+
+
+3) Where is Boltzmann machine applied?
+
+
+
+
+
+
+
+
+4) The back-propagation algorithm is used for what task?
+
+
+
+
+
+
+
+
+5) The VC-Dim of a single linear neurons is equal to ???
+
+
+
+
+
+
+
+
+6) What is the advantage of an MLP over an SVM?
+
+
+
+
+
+
+
+
+7) What is Mercer's theorem about? What does it tell?

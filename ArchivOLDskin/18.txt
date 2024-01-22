@@ -1,0 +1,55 @@
+1) Which types of networks can be used for pattern recognition?
+
+
+
+
+
+
+
+
+2) How many neurons are usually involved in neural network for a typically scenario like e.g.detecting the numbers 0-9 in black on white paper, not handwritten?
+
+
+
+
+
+
+
+
+3) What are good stopping criterion in back propagation?
+
+
+
+
+
+
+
+
+4) How many layers has normally a Radial Basis Function Network?
+
+
+
+
+
+
+
+
+5) What's the Hybrid Learning Procedure for RBF networks?
+
+
+
+
+
+
+
+
+6) What are the two characteristics of a linear-least squares filter?
+
+
+
+
+
+
+
+
+7) What is Mercer's theorem about? What does it tell?

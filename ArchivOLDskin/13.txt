@@ -1,0 +1,55 @@
+1) What can happen if the learning-rate parameter n is to large?
+
+
+
+
+
+
+
+
+2) What is the nearest neighbor rule?
+
+
+
+
+
+
+
+
+3) What is misclassification and what is its effect on decision boundary?
+
+
+
+
+
+
+
+
+4) What is the principle of competitive learning? 
+
+
+
+
+
+
+
+
+5) How does Boltzmann learning works?
+
+
+
+
+
+
+
+
+6) What dos the boltzmann converge to?
+
+
+
+
+
+
+
+
+7) Can you explain the graphs that you got out matlab tool box?

@@ -1,0 +1,55 @@
+1) What is the curse of dimensionality?
+
+
+
+
+
+
+
+
+2) What is the criteria of a any function to be a radial bases function? 
+
+
+
+
+
+
+
+
+3) Why is the computational effort of SVM good, even with a huge amount of datapoints?
+
+
+
+
+
+
+
+
+4) Is it possible to use sin(x) or polynomial function in activation functions ?
+
+
+
+
+
+
+
+
+5) Which terms are related by computational learning theory?
+
+
+
+
+
+
+
+
+6) Which classifier should be choosen for SVM's?
+
+
+
+
+
+
+
+
+7) Why could an ANN be represented by a line equation?

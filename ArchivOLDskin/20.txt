@@ -1,0 +1,55 @@
+1) What is misclassification and what is its effect on decision boundary?
+
+
+
+
+
+
+
+
+2) what is the procedure to find the optimal hyperplane?
+
+
+
+
+
+
+
+
+3) What is the main type of application for radial basis networks?
+
+
+
+
+
+
+
+
+4) Can VC-Dimension be used for regression ?
+
+
+
+
+
+
+
+
+5) Let's say we don't know if our data are linearly separable, 
+
+
+
+
+
+
+
+
+6) What is the validation set used for?
+
+
+
+
+
+
+
+
+7) What is the main difference between the outputs of a Hebbian-based network and one using competitive learning?

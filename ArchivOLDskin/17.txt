@@ -1,0 +1,55 @@
+1) Do we still have weights in SVM?
+
+
+
+
+
+
+
+
+2) Why negative training examples are as necessary as positive ones?
+
+
+
+
+
+
+
+
+3) Are there more activation functions then the three mentioned in the book and lecture (threshold, piecewise-linear, sigmoid)?
+
+
+
+
+
+
+
+
+4) Why do we need an error signal in MLP? Is this an algoritmic enforcement?
+
+
+
+
+
+
+
+
+5) What do we understand by weight sharing?
+
+
+
+
+
+
+
+
+6) What do you know about the step size in steepest descent?
+
+
+
+
+
+
+
+
+7) What is the idea behind competitive learning?

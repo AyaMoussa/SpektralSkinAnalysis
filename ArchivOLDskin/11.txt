@@ -1,0 +1,55 @@
+1) How sould the learning rate vary when sign of the gradient alternates?
+
+
+
+
+
+
+
+
+2) What is an advantage of the Newton's method over the steepest descent method?
+
+
+
+
+
+
+
+
+3) What method is used in SVM's to find the widest margin of a hyperplane?
+
+
+
+
+
+
+
+
+4) Which types of networks can be used for pattern recognition?
+
+
+
+
+
+
+
+
+5) The VC-Dim of a multilayer sigmoid feed-forward neural network fall in the growth class O(?) ?
+
+
+
+
+
+
+
+
+6) what is the procedure to find the optimal hyperplane?
+
+
+
+
+
+
+
+
+7) Name some typical learning tasks!

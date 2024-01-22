@@ -1,0 +1,55 @@
+1) Assuming we hava a MLP with sigmoid activation function (the classic one). If our desired output are discrete values, and given that the activation fuction is has a continous range between (0,1), what should be the correct procedure to be able to train the net?
+
+
+
+
+
+
+
+
+2) How can the back-propagation algorithm improve the output of a neural network?
+
+
+
+
+
+
+
+
+3) What are the factors influencing Generaliztion?
+
+
+
+
+
+
+
+
+4) What is the tradeoff for using a classification function with high VC dimension?
+
+
+
+
+
+
+
+
+5) Explain back propagation!
+
+
+
+
+
+
+
+
+6) What vecotrs are called support-vectors, if two classes of datapoints are nonseparable?
+
+
+
+
+
+
+
+
+7) What is the nearest neighbor rule?

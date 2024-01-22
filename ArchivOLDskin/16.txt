@@ -1,0 +1,55 @@
+1) Compare sequential and batch learning from point of view of getting to local minimum. Which of those is less likely to be trapped and why:a) Sequential b) Batch c) There is no difference
+
+
+
+
+
+
+
+
+2) Why did SVM killed multilayer perceptron?
+
+
+
+
+
+
+
+
+3) What is the main difference between the outputs of a Hebbian-based network and one using competitive learning?
+
+
+
+
+
+
+
+
+4) Why is "white data" important?
+
+
+
+
+
+
+
+
+5) What is the general idea behind Hebbian learning?
+
+
+
+
+
+
+
+
+6) What two violations of the separating hyperplane can occure?
+
+
+
+
+
+
+
+
+7) With points does the SVM take in consideration, and how are they chosen ? 

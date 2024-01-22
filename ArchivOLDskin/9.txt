@@ -1,0 +1,55 @@
+1) For multi-class classification we need more than one output node or we can do it with a single node?
+
+
+
+
+
+
+
+
+2) Why is steepest descent method used for optimization?
+
+
+
+
+
+
+
+
+3) In the end of chapter 3 notes, the author mentions that recursive least squares can be used for overcoming some of the problems of LMS. What is the form of the cost function used in RLS?
+
+
+
+
+
+
+
+
+4) Give a definition for the term "artificial neural network"!
+
+
+
+
+
+
+
+
+5) Explain over-fitting and generalization for NNs.
+
+
+
+
+
+
+
+
+6) Why do RBF networks require only one hidden layer?
+
+
+
+
+
+
+
+
+7) Can backpropagation increase the training error?

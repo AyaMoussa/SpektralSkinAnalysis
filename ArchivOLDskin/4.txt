@@ -1,0 +1,55 @@
+1) When are recurrent neural networks useful?
+
+
+
+
+
+
+
+
+2) If multi-class classification is needed to be done using neural network then the sigmoid function would have to  be dis-continuous or what would be the shape of sigmoid function? 
+
+
+
+
+
+
+
+
+3) Using neural networks for function approximation means an tradeoff between...
+
+
+
+
+
+
+
+
+4) Can VC-Dimension be used for multi-class ?
+
+
+
+
+
+
+
+
+5) Give a definition for the term "artificial neural network"!
+
+
+
+
+
+
+
+
+6) How is the knowledge of a neural network represented?
+
+
+
+
+
+
+
+
+7) How many layers has normally a Radial Basis Function Network?

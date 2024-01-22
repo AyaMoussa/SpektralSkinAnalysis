@@ -1,0 +1,55 @@
+1) Name the differences betwen sequential, on-line, pattern and stochastic learning mode.
+
+
+
+
+
+
+
+
+2) How can the back-propagation algorithm improve the output of a neural network?
+
+
+
+
+
+
+
+
+3) Why do we need an error signal in MLP? Is this an algoritmic enforcement?
+
+
+
+
+
+
+
+
+4) When do SVMs perform badly, i.e. what are some problems that other learning algorithms might solve more easily?
+
+
+
+
+
+
+
+
+5) Where to use an ANN? Name some applications which involves ANNs.
+
+
+
+
+
+
+
+
+6) Why could an ANN be represented by a line equation?
+
+
+
+
+
+
+
+
+7) Write down and explain Hebb's rule!

@@ -1,0 +1,55 @@
+1) XOR is the most famous boolean network in the history of NNs, why?
+
+
+
+
+
+
+
+
+2) How does RBF compare in performance against SVM and MLP?
+
+
+
+
+
+
+
+
+3) Why is the computation of the local gradient of a neuron different when the neuron is an output node and when the neuron is a hidden   node?
+
+
+
+
+
+
+
+
+4) What do we understand by "whitened data"?
+
+
+
+
+
+
+
+
+5) Where to use an ANN? Name some applications which involves ANNs.
+
+
+
+
+
+
+
+
+6) Explain over-fitting and generalization for NNs.
+
+
+
+
+
+
+
+
+7) On page 129 of the book (section 3.5 on LMS), the author points out that "Unlike the method of steepest descent, the LMS algorithm does not require knowledge of the statistics of the environment". What is the actual meaning of this statement, given that, in the basic sense, both steepest descent and LMS are minimising gradients, so there is not a huge difference between them. LMS does require a specific form of the cost function and it works in an online mode, but is that what makes "knowledge of the statistics of the environment" unnecessary or is there some other subtler difference that I am not able to see?

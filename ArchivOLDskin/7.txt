@@ -1,0 +1,55 @@
+1) What is a nueral network?
+
+
+
+
+
+
+
+
+2) Explain the use of Kernel functions in the context of SVMs!
+
+
+
+
+
+
+
+
+3) Describe what is learning in context of an artificial neural network?
+
+
+
+
+
+
+
+
+4) Can a MLP-network simulate a XOR? And if so, how?
+
+
+
+
+
+
+
+
+5) Why do we need an error signal in MLP? Is this an algoritmic enforcement?
+
+
+
+
+
+
+
+
+6) What are the reasons to use quadratic programming in SVMs?
+
+
+
+
+
+
+
+
+7) What is the biggest limitation of SVM?

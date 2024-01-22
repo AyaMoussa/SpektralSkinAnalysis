@@ -1,0 +1,55 @@
+1) The VC-Dim of a single linear neurons is equal to ???
+
+
+
+
+
+
+
+
+2) What is the curse of dimensionality?
+
+
+
+
+
+
+
+
+3) Compare sequential and batch learning from point of view of getting to local minimum. Which of those is less likely to be trapped and why:a) Sequential b) Batch c) There is no difference
+
+
+
+
+
+
+
+
+4) What is the principle of competitive learning? 
+
+
+
+
+
+
+
+
+5) What is an important characteristic for the cost function in terms of optimization?
+
+
+
+
+
+
+
+
+6) What is a SVM?
+
+
+
+
+
+
+
+
+7) Can VC-Dimension be used for regression ?

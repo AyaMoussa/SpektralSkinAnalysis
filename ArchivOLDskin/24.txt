@@ -1,0 +1,55 @@
+1) What is the criteria of a any function to be a radial bases function? 
+
+
+
+
+
+
+
+
+2) What are the arguments of the hidden units at a RBFN?
+
+
+
+
+
+
+
+
+3) What are the benefits of a a artificial neural network?
+
+
+
+
+
+
+
+
+4) The book says that "a uniform convergence in the weight vector w of the empirical risk to its expected value occurs" when showing that the empirical risk functional approximates the original risk functionalI might have encountered uniform convergence before, but as I don't remember precisely: how exactly is it defined?
+
+
+
+
+
+
+
+
+5) Give example of families of RBF functions!
+
+
+
+
+
+
+
+
+6) How is the "separating capacity" of a decision surface defined?
+
+
+
+
+
+
+
+
+7) When would you include a momentum constant for the weight updates?

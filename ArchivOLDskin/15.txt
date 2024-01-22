@@ -1,0 +1,55 @@
+1) In what enviroment is the Wiener filter used?
+
+
+
+
+
+
+
+
+2) How is multi-class classification done with SVMs?
+
+
+
+
+
+
+
+
+3) How is the VC dimension varied when deciding on a network?
+
+
+
+
+
+
+
+
+4) Why could an ANN be represented by a line equation?
+
+
+
+
+
+
+
+
+5) What is a SVM?
+
+
+
+
+
+
+
+
+6) What is the use of Boltzmann networks without output neurons?
+
+
+
+
+
+
+
+
+7) What method is used in SVM's to find the widest margin of a hyperplane?

@@ -1,0 +1,55 @@
+1) Define: a hypothesis h from H *SHATTERS* a given data set A
+
+
+
+
+
+
+
+
+2) Mention how three heuristics can help with back-propagation?
+
+
+
+
+
+
+
+
+3) Is there a situation where the convergence algorithm might fail to converge, instead, diverge; become unstable? If yes, in which case? (Book, page :121)
+
+
+
+
+
+
+
+
+4) In error-correction learning, why is the observed output subtracted from the desired output and not the other way round?
+
+
+
+
+
+
+
+
+5) How do you show the VC dimension?
+
+
+
+
+
+
+
+
+6) Where to use an ANN? Name some applications which involves ANNs.
+
+
+
+
+
+
+
+
+7) What is "winner takes it all" learning in SOMs?

@@ -1,0 +1,55 @@
+1) What is the difference between evaluation and test our network with test data set?
+
+
+
+
+
+
+
+
+2) What do we understand by "whitened data"?
+
+
+
+
+
+
+
+
+3) Explain interpolation vs. approximation in context of machine learning.
+
+
+
+
+
+
+
+
+4) We have different types of activation functions. In which cases is best to use the corresponding types of activation functions?
+
+
+
+
+
+
+
+
+5) What is the upper bound of the VC dimension of a Heaviside activation function (in O Notation)?
+
+
+
+
+
+
+
+
+6) What is the advantage of an MLP over an SVM?
+
+
+
+
+
+
+
+
+7) Compare: ADALINE and perceptrons!

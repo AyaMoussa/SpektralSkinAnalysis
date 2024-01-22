@@ -1,0 +1,55 @@
+1) Name two limitations or disadvantages of back-propagation learning.
+
+
+
+
+
+
+
+
+2) what is the goal of svm? what does it try to find?
+
+
+
+
+
+
+
+
+3) Explain the use of Kernel functions in the context of SVMs!
+
+
+
+
+
+
+
+
+4) What are the reasons to use quadratic programming in SVMs?
+
+
+
+
+
+
+
+
+5) What does shattering mean?
+
+
+
+
+
+
+
+
+6) What is the actual role of the bias in a multilayer perceptron?
+
+
+
+
+
+
+
+
+7) What is "back-propagation-through-time" when training recurrent neural networks?

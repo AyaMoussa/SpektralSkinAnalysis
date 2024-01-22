@@ -1,0 +1,55 @@
+1) What is the drawback of learning too many input-output examples for a network?
+
+
+
+
+
+
+
+
+2) How to estimate the error of test data after training ?
+
+
+
+
+
+
+
+
+3) What does shattering mean?
+
+
+
+
+
+
+
+
+4) In RBF, on which parameters does the separating capacity of a surface depend?
+
+
+
+
+
+
+
+
+5) The VC-Dim of a single linear neurons is equal to ???
+
+
+
+
+
+
+
+
+6) The book says that "a uniform convergence in the weight vector w of the empirical risk to its expected value occurs" when showing that the empirical risk functional approximates the original risk functionalI might have encountered uniform convergence before, but as I don't remember precisely: how exactly is it defined?
+
+
+
+
+
+
+
+
+7) What is the main purpose of RBF, in which situation should we think of using RBF, why?

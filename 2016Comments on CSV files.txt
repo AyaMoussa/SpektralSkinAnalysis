@@ -1,0 +1,23 @@
+Comments on CSV fieles 2016*.csv
+
+
+material.csv:
+335 Materialien, von Holz über Kunststoff und Kleidung bis Metall
+
+material-fake.csv:
+32 Materialien, die bei der Anfertigung von Masken verwendet werden
+(mitunter schwer zu trennen von Haut)
+
+skin.csv:
+1111 verschiedene Hautmessungen (11 Messpunkte an verschiedenen
+Körperstellen von 101 Individuen)
+
+Details
+=======
+Feldtrenner: ';'
+Zeile 0: Header/Nähere Infos zu Materialien
+Spalte 0: Wellenlänge in nm
+Zahlen sind amerikanisch dargestellt, Zeichensatz ist UTF-8
+
+Die Proben sind also Spaltenweise organisiert, wobei die Zeilen die
+einzelnen Remissionswerte zu den jeweiligen Wellenlängen enthalten.
